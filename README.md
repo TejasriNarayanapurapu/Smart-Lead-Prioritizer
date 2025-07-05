@@ -6,7 +6,7 @@ This project was developed as part of the AI-Readiness Prework Challenge by **Ca
 
 To replicate and enhance aspects of [SaaSquatchLeads](https://www.saasquatchleads.com/) within a strict 5-hour build window — showcasing practical AI/ML/heuristic tools for prioritizing B2B leads.
 
-## 💡 What It Does
+##  What It Does
 
 Upload a CSV of raw leads and instantly receive a scored, ranked list that highlights the most promising leads. Each lead is scored based on:
 
