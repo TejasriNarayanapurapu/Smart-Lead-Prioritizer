@@ -1,8 +1,8 @@
-# 🚀 Smart Lead Prioritizer – Caprae Capital Internship Challenge
+#  Smart Lead Prioritizer – Caprae Capital Internship Challenge
 
 This project was developed as part of the AI-Readiness Prework Challenge by **Caprae Capital Partners**. It is designed to demonstrate how AI-driven tools can streamline lead generation and prioritization for acquisition and outreach teams.
 
-## 📌 Project Objective
+##  Project Objective
 
 To replicate and enhance aspects of [SaaSquatchLeads](https://www.saasquatchleads.com/) within a strict 5-hour build window — showcasing practical AI/ML/heuristic tools for prioritizing B2B leads.
 
@@ -19,23 +19,23 @@ Upload a CSV of raw leads and instantly receive a scored, ranked list that highl
 
 Final output is downloadable and ranked by score.
 
-## 🔧 Features
+##  Features
 
-- 📥 CSV Upload (Streamlit file uploader)
-- ✅ Automatic scoring based on completeness
-- 📊 Top 3 leads preview
-- 💾 Downloadable CSV of scored leads
-- 🎯 No ML required – heuristic-based, fast, reliable
+-  CSV Upload (Streamlit file uploader)
+-  Automatic scoring based on completeness
+-  Top 3 leads preview
+-  Downloadable CSV of scored leads
+-  No ML required – heuristic-based, fast, reliable
 
-## 📽️ Project Walkthrough Video
+##  Project Walkthrough Video
 
-🎥 I created a short 2-minute walkthrough explaining the logic, features, and usage of the Lead Prioritizer app.  
+I created a short 2-minute walkthrough explaining the logic, features, and usage of the Lead Prioritizer app.  
 Watch it here 👉 [https://drive.google.com/file/d/14CeZXgJSYTzhLyC-CEBxfXVBoAF07EXV/view?usp=drive_link]
 
 > In the video, I demonstrate how the Streamlit app works, how the CSV leads are scored based on business criteria, and how users can download the prioritized leads — all within a clean and intuitive UI.
   
 
-## 🧪 How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/yourusername/lead-prioritizer.git
